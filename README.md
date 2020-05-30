@@ -1,2 +1,2 @@
 # mlopstask3
-automating the tweak of Hyperparameters 
+automating the moddel training and tweak of Hyperparameters
